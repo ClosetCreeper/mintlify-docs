@@ -45,8 +45,8 @@
     "links": [],
     "primary": {
       "type": "button",
-      "label": "Dashboard",
-      "href": "https://app.mintlify.com"
+      "label": "Invite the Bot",
+      "href": "https://discord.com/oauth2/authorize?client_id=1538228307777163354&permissions=8&integration_type=0&scope=bot"
     }
   },
   "contextual": {
