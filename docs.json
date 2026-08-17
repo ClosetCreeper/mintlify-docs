@@ -1,0 +1,67 @@
+{
+  "$schema": "https://mintlify.com/docs.json",
+  "theme": "aspen",
+  "name": "Global AFK",
+  "colors": {
+    "primary": "#a215a3",
+    "light": "#a215a3",
+    "dark": "#a215a3"
+  },
+  "favicon": "/favicon.svg",
+  "navigation": {
+    "pages": [
+      {
+        "group": "Getting Started",
+        "pages": [
+          "index",
+          "quickstart"
+        ]
+      }
+    ],
+    "global": {
+      "anchors": [
+        {
+          "anchor": "Invite the Bot",
+          "icon": "plus-large",
+          "href": "https://discord.com/oauth2/authorize?client_id=1538228307777163354&permissions=8&integration_type=0&scope=bot"
+        }
+      ]
+    },
+    "groups": [
+      {
+        "group": "Regulations",
+        "pages": [
+          "privacy-policy",
+          "terms-of-service"
+        ]
+      }
+    ]
+  },
+  "logo": {
+    "light": "/logo/light.svg",
+    "dark": "/logo/dark.svg"
+  },
+  "navbar": {
+    "links": [],
+    "primary": {
+      "type": "button",
+      "label": "Dashboard",
+      "href": "https://app.mintlify.com"
+    }
+  },
+  "contextual": {
+    "options": [
+      "copy",
+      "view",
+      "chatgpt",
+      "claude",
+      "perplexity",
+      "mcp",
+      "cursor",
+      "vscode"
+    ]
+  },
+  "appearance": {
+    "default": "dark"
+  }
+}
