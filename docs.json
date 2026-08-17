@@ -7,7 +7,10 @@
     "light": "#a215a3",
     "dark": "#a215a3"
   },
-  "favicon": "/favicon.svg",
+  "favicon": {
+    "light": "/images/AFK-2.png",
+    "dark": "/images/AFK-2.png"
+  },
   "navigation": {
     "pages": [
       {
@@ -38,8 +41,8 @@
     ]
   },
   "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
+    "light": "/images/AFK-2.png",
+    "dark": "/images/AFK-2.png"
   },
   "navbar": {
     "links": [],
